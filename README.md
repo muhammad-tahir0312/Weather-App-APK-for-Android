@@ -12,12 +12,12 @@ A simple Flutter-based weather application that fetches real-time weather data u
 
 ## Screenshots
 
-## Installation
 Here are some screenshots of the Weather App:
 
 ![Screenshot 1](img1.jpeg)
 ![Screenshot 2](img2.jpeg)
 
+## Installation
 ### Prerequisites
 - Flutter SDK installed ([Download Flutter](https://flutter.dev/docs/get-started/install))
 - Android Studio or VS Code with Flutter extension
